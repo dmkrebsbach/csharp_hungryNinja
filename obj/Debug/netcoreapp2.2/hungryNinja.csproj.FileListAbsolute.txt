@@ -1,0 +1,11 @@
+/home/dmkrebsbach/CodingDojo/CSharp/hungryNinja/bin/Debug/netcoreapp2.2/hungryNinja.deps.json
+/home/dmkrebsbach/CodingDojo/CSharp/hungryNinja/bin/Debug/netcoreapp2.2/hungryNinja.runtimeconfig.json
+/home/dmkrebsbach/CodingDojo/CSharp/hungryNinja/bin/Debug/netcoreapp2.2/hungryNinja.runtimeconfig.dev.json
+/home/dmkrebsbach/CodingDojo/CSharp/hungryNinja/bin/Debug/netcoreapp2.2/hungryNinja.dll
+/home/dmkrebsbach/CodingDojo/CSharp/hungryNinja/bin/Debug/netcoreapp2.2/hungryNinja.pdb
+/home/dmkrebsbach/CodingDojo/CSharp/hungryNinja/obj/Debug/netcoreapp2.2/hungryNinja.csprojAssemblyReference.cache
+/home/dmkrebsbach/CodingDojo/CSharp/hungryNinja/obj/Debug/netcoreapp2.2/hungryNinja.csproj.CoreCompileInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/hungryNinja/obj/Debug/netcoreapp2.2/hungryNinja.AssemblyInfoInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/hungryNinja/obj/Debug/netcoreapp2.2/hungryNinja.AssemblyInfo.cs
+/home/dmkrebsbach/CodingDojo/CSharp/hungryNinja/obj/Debug/netcoreapp2.2/hungryNinja.dll
+/home/dmkrebsbach/CodingDojo/CSharp/hungryNinja/obj/Debug/netcoreapp2.2/hungryNinja.pdb
